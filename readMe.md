@@ -20,10 +20,10 @@ A simple, real-time chat application built using React, Socket.io, and Express.
 
 1. **Clone the Repository**:
    ```
-   - git clone <https://github.com/wizli595/chat-app>
+   git clone <https://github.com/wizli595/chat-app>
    ```
    ```
-   - cd chat-app
+   cd chat-app
    ```
 2. **Backend Setup**:
 
