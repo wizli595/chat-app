@@ -19,8 +19,12 @@ A simple, real-time chat application built using React, Socket.io, and Express.
 ### Installation
 
 1. **Clone the Repository**:
+   ```
    - git clone <https://github.com/wizli595/chat-app>
+   ```
+   ```
    - cd chat-app
+   ```
 2. **Backend Setup**:
 
 - Navigate to the backend directory:
@@ -60,7 +64,7 @@ A simple, real-time chat application built using React, Socket.io, and Express.
 
 - Navigate to frontend directory:
   ```
-  cd clent
+  cd client
   ```
 - Start the React app:
   ```
