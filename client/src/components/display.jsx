@@ -40,7 +40,6 @@ const Display = ({ socket }) => {
             onChange={handleChange} />
         <button onClick={joinRoom}>go</button>
 
-
     </div>);
 }
 Display.propTypes = {
